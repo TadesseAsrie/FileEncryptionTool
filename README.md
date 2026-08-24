@@ -111,4 +111,4 @@ Developed using Modern C++23 with a focus on security, performance, and clean so
 
 ## Disclaimer
 
-This software is intended for lawful file protection and data security purposes only. Users are responsible for complying with all applicable laws and regulations when using this software.
+This software is intended for lawful file protection and data security purposes only. Users are responsible for complying with all applicable laws and regulations when using this software. if you like please give star
