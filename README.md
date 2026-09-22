@@ -26,6 +26,7 @@ The project follows modern C++ best practices, including RAII, smart pointers, S
 - Unit Testing with GoogleTest
 - Modular Architecture
 - High Performance
+- High Reliability 
 
 ---
 
