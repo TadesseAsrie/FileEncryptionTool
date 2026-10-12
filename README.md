@@ -107,6 +107,7 @@ This project is licensed under the MIT License.
 ## Author
 
 Developed using Modern C++23 with a focus on security, performance, and clean software architecture.
+By Tadesse Asrie
 
 ---
 
